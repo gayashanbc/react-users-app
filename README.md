@@ -5,4 +5,4 @@
 ### a table containing users'details under the form is dynamically updated everytime the form is submitted.
 
 
-## *** first run the 'npm install' comma
+## *** fir run the 'npm install' comma
